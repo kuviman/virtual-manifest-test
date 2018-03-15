@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/kuviman/virtual-manifest-test.svg?branch=master)](https://travis-ci.org/kuviman/virtual-manifest-test)
