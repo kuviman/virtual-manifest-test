@@ -1,0 +1,6 @@
+language: rust
+install:
+  - cargo install cargo web
+script:
+  - cargo build --package hello
+  - cargo web build --package hello
